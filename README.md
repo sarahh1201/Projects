@@ -1,5 +1,5 @@
 # Projects
-A place to keep all my ideas &amp; plans together 
+A place to keep all my ideas &amp; plans together!
 
 
 - May 5, 2024 - [Rock Paper Scissors](Rock_/Paper_/Scissors)
