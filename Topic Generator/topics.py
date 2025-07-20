@@ -1,6 +1,6 @@
 import random
 
-with open('topic.txt') as topic:
+with open('Topic Generator/topic.txt') as topic:
     lines = topic.readlines()
     
 topic_count = len(lines)
