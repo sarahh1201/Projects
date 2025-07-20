@@ -1,4 +1,4 @@
-# projects
+# Projects
 A place to keep all my ideas &amp; plans together 
 
 
